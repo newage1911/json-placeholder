@@ -1,36 +1,53 @@
-[{
-  "id": 1,
-  "first_name": "Hildegaard",
-  "last_name": "Almeida",
-  "email": "halmeida0@cmu.edu",
-  "gender": "Female",
-  "ip_address": "205.90.131.217"
-}, {
-  "id": 2,
-  "first_name": "Angy",
-  "last_name": "Tear",
-  "email": "atear1@xrea.com",
-  "gender": "Female",
-  "ip_address": "210.23.140.67"
-}, {
-  "id": 3,
-  "first_name": "Wynn",
-  "last_name": "Coggell",
-  "email": "wcoggell2@theatlantic.com",
-  "gender": "Male",
-  "ip_address": "10.250.28.106"
-}, {
-  "id": 4,
-  "first_name": "Mary",
-  "last_name": "Burchill",
-  "email": "mburchill3@alibaba.com",
-  "gender": "Female",
-  "ip_address": "67.56.33.89"
-}, {
-  "id": 5,
-  "first_name": "Cory",
-  "last_name": "Yegorev",
-  "email": "cyegorev4@theatlantic.com",
-  "gender": "Male",
-  "ip_address": "137.29.194.102"
-}]
+{
+    "user": [
+        {
+            "first_name": "Carney",
+            "last_name": "Brooks",
+            "email": "cbrooks0@adobe.com",
+            "gender": "Male"
+          }, {
+            "first_name": "Charissa",
+            "last_name": "Menendes",
+            "email": "cmenendes1@netscape.com",
+            "gender": "Female"
+          }, {
+            "first_name": "Clemmy",
+            "last_name": "Manach",
+            "email": "cmanach2@cdc.gov",
+            "gender": "Female"
+          }, {
+            "first_name": "Chaunce",
+            "last_name": "Bence",
+            "email": "cbence3@joomla.org",
+            "gender": "Male"
+          }, {
+            "first_name": "Peggy",
+            "last_name": "Yurlov",
+            "email": "pyurlov4@shareasale.com",
+            "gender": "Female"
+          }
+    ],
+    "country": [
+        {
+            "country": "Norway",
+            "city": "Oslo",
+            "code": "NO"
+          }, {
+            "country": "Indonesia",
+            "city": "Ngawi",
+            "code": "ID"
+          }, {
+            "country": "Indonesia",
+            "city": "Klutuk",
+            "code": "ID"
+          }, {
+            "country": "Northern Mariana Islands",
+            "city": "San Jose Village",
+            "code": "MP"
+          }, {
+            "country": "Germany",
+            "city": "Berlin",
+            "code": "DE"
+          }
+    ]
+}
